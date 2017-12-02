@@ -11,7 +11,7 @@ int main()
 
     for (int i=0; i<s.size(); ++i)
     {
-        if (i < s.size()/2) // if it is the last index in s
+        if (i < s.size()/2)
         {
             if (s[i] == s[i+s.size()/2])
                 sum += s[i] - '0'; // get number value for digit from ASCII

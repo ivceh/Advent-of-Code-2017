@@ -1,6 +1,6 @@
 fo = open("input.txt","r")
 s = fo.read()
 
-A = [list(map(int,l.split("\t"))) for l in filter(None,list(s.split("\n")))]
+A = [[int(i) for i in l.split()] for l in s.splitlines()]
 
-print(sum([max(l) - min(l) for l in A]))
+print(sum(max(l) - min(l) for l in A))
