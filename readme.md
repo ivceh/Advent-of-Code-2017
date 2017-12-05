@@ -5,7 +5,7 @@
     <th> Day </th>
     <th> Task </th>
     <th> Programming language </th>
-    <th />
+    <th> View </th>
   </tr>
   <tr>
     <td> 01 </td>
