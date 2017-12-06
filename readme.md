@@ -5,7 +5,7 @@
     <th> Day </th>
     <th> Task </th>
     <th> Programming language </th>
-    <th> View </th>
+    <th> View solution </th>
   </tr>
   <tr>
     <td> 01 </td>
@@ -47,6 +47,14 @@
     <td> VB.NET </td>
     <td>
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day05/AoC2017_5.vb"> AoC2017_5.vb </a>
+    </td>
+  </tr>
+  <tr>
+    <td> 06 </td>
+    <td> <a href="http://adventofcode.com/2017/day/6"> Memory Reallocation </a> </td>
+    <td> C++ </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day06/AoC2017_6.cpp"> AoC2017_6.cpp </a>
     </td>
   </tr>
 </table>
