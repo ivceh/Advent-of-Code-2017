@@ -15,7 +15,7 @@ int main()
         M[V] = n;
         max = V[0];
         maxi = 0;
-        for (i=0; i<16; ++i)
+        for (i=0; i<V.size(); ++i)
             if (V[i] > max)
             {
                 max = V[i];
@@ -23,9 +23,9 @@ int main()
             }
         x = max;
         V[maxi] = 0;
-        for (i=0; i<16; ++i)
+        for (i=0; i<V.size(); ++i)
         {
-            V[(maxi+i+1) % 16] += x/16 + (i<(x%16) ? 1 : 0);
+            V[(maxi+i+1) % V.size()] += x/V.size() + (i<(x%V.size()) ? 1 : 0);
         }
         ++n;
     }

@@ -55,7 +55,7 @@ namespace AoC2017_4
                 line = sr.ReadLine();
             }
 
-            Console.WriteLine(cnt.ToString()+" "+cnt2.ToString());
+            Console.WriteLine(cnt);
         }
     }
 }
