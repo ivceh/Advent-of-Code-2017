@@ -57,4 +57,12 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day06/AoC2017_6.cpp"> AoC2017_6.cpp </a>
     </td>
   </tr>
+  <tr>
+    <td> 07 </td>
+    <td> <a href="http://adventofcode.com/2017/day/7"> Recursive Circus </a> </td>
+    <td> VB.NET </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day07/AoC2017_7.vb"> AoC2017_7.vb </a>
+    </td>
+  </tr>
 </table>
