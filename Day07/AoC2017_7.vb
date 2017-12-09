@@ -5,9 +5,9 @@ Imports System.Text
 Imports System.Threading.Tasks
 Imports System.IO
 
-Public Module AoC2017
+Module AoC2017
 
-    Public Const undefined As Integer = -1
+    Const undefined As Integer = -1
 
     Class NodeInfo
 
@@ -41,6 +41,7 @@ Public Module AoC2017
         Dim nodes_with_parent As New HashSet(Of String)
         Dim root As String = ""
 
+        ' reading input
         While Not (line Is Nothing)
             If line.Trim <> "" Then
                 spl_line = line.Split()
@@ -62,6 +63,7 @@ Public Module AoC2017
         End While
         sr.Close()
 
+        ' sreaching for node without parent - it must be root
         For Each node In nodes
             node_name = node.Key
             If Not nodes_with_parent.Contains(node_name) Then
@@ -80,6 +82,7 @@ Public Module AoC2017
             Console.WriteLine("Part 1: " & root)
         End If
 
+        ' solving the second part of the task
         If nodes(root).children.Count <= 2 Then
             Console.WriteLine("I did not cover this case. I could but the code would be more complicated.")
             Exit Sub
