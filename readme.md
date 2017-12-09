@@ -65,4 +65,12 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day07/AoC2017_7.vb"> AoC2017_7.vb </a>
     </td>
   </tr>
+  <tr>
+    <td> 08 </td>
+    <td> <a href="http://adventofcode.com/2017/day/8"> I Heard You Like Registers </a> </td>
+    <td> C# </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day07/AoC2017_8.cs"> AoC2017_8.cs </a>
+    </td>
+  </tr>
 </table>
