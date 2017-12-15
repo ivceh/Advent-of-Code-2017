@@ -114,5 +114,13 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day13/AoC2017_13.cs"> AoC2017_13.cs </a>
     </td>
   </tr>
+  <tr>
+    <td> 14 </td>
+    <td> <a href="http://adventofcode.com/2017/day/14"> Disk Defragmentation </a> </td>
+    <td> VB.NET </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day14/AoC2017_14.vb"> AoC2017_14.vb </a>
+    </td>
+  </tr>
   
 </table>
