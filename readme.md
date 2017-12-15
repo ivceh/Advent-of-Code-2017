@@ -98,5 +98,13 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day11/AoC2017_11.py"> AoC2017_11.py </a>
     </td>
   </tr>
+  <tr>
+    <td> 12 </td>
+    <td> <a href="http://adventofcode.com/2017/day/12"> Digital Plumber </a> </td>
+    <td> C++ 11 </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day12/AoC2017_12.cpp"> AoC2017_12.cpp </a>
+    </td>
+  </tr>
   
 </table>
