@@ -1,6 +1,7 @@
 ## <a href="http://adventofcode.com/2017"> Advent of code 2017 </a>
 
 <table>
+  
   <tr>
     <th> Day </th>
     <th> Task </th>
@@ -81,4 +82,21 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day09/AoC2017_9.cpp"> AoC2017_9.cpp </a>
     </td>
   </tr>
+  <tr>
+    <td> 10 </td>
+    <td> <a href="http://adventofcode.com/2017/day/10"> Knot Hash </a> </td>
+    <td> VB.NET </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day10/AoC2017_10.vb"> AoC2017_10.vb </a>
+    </td>
+  </tr>
+  <tr>
+    <td> 11 </td>
+    <td> <a href="http://adventofcode.com/2017/day/11"> Hex Ed </a> </td>
+    <td> Python 3 </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day11/AoC2017_11.py"> AoC2017_11.py </a>
+    </td>
+  </tr>
+  
 </table>
