@@ -7,13 +7,17 @@ Imports System.IO
 
 Module AoC2017
 
+    Sub Swap(ByRef a As Integer, ByRef b As Integer)
+        Dim t As Integer = a
+        a = b
+        b = t
+    End Sub
+
     Sub ReverseCircularList(li As List(Of Byte), pos As Integer, length As Integer)
 
         Dim i, t As Integer
         For i = 0 To length \ 2 - 1
-            t = li((pos + i) Mod li.Count)
-            li((pos + i) Mod li.Count) = li((pos + length - 1 - i) Mod li.Count)
-            li((pos + length - 1 - i) Mod li.Count) = t
+            Swap(li((pos + i) Mod li.Count), li((pos + length - 1 - i) Mod li.Count))
         Next
 
     End Sub
