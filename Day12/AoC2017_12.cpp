@@ -37,9 +37,11 @@ int main()
             istringstream istr(line);
             istr >> a;
             M[a] = set<int>();
+            istr.ignore(4);
             while (istr >> b)
             {
                 M[a].insert(b);
+                istr.ignore(1);
             }
         }
     }
