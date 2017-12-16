@@ -122,5 +122,13 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day14/AoC2017_14.vb"> AoC2017_14.vb </a>
     </td>
   </tr>
+  <tr>
+    <td> 15 </td>
+    <td> <a href="http://adventofcode.com/2017/day/15"> Dueling Generators </a> </td>
+    <td> C++ 11 </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day15/AoC2017_15.cpp"> AoC2017_15.cpp </a>
+    </td>
+  </tr>
   
 </table>
