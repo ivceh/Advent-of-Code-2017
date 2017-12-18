@@ -146,5 +146,14 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day17/AoC2017_17.cpp"> AoC2017_17.cpp </a>
     </td>
   </tr>
+  <tr>
+    <td> 18 </td>
+    <td> <a href="http://adventofcode.com/2017/day/18"> Duet </a> </td>
+    <td> VB.NET </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day18/AoC2017_18A.vb"> AoC2017_18A.vb </a> &nbsp
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day18/AoC2017_18B.vb"> AoC2017_18B.vb </a>
+    </td>
+  </tr>
   
 </table>
