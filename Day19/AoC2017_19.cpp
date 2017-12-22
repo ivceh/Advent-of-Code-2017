@@ -55,16 +55,11 @@ int main()
 
     do
     {
-        //cout << x <<","<<y<<endl;
-        //cin >> c;
-
         over = false;
 
         c = gr(x,y);
         if (c == '-' || c == '|' || (c >= 'A' && c <= 'Z'))
         {
-            //cout << "*";
-
             if (c >= 'A' && c <= 'Z')
                 str.push_back(c);
 
@@ -73,18 +68,15 @@ int main()
         }
         else if (c == '+')
         {
-            //cout << "+";
             direction newdir = adjacent_directions(dir).first;
             if (gr(x+dir_vectors[newdir].x,y+dir_vectors[newdir].y) != ' ')
             {
-                //cout << "1 " << dir_vectors[newdir].x << " " << dir_vectors[newdir].y << endl;
                 dir = newdir;
                 x += dir_vectors[newdir].x;
                 y += dir_vectors[newdir].y;
             }
             else
             {
-                //cout << "2 ";
                 newdir = adjacent_directions(dir).second;
                 if (gr(x+dir_vectors[newdir].x,y+dir_vectors[newdir].y) != ' ')
                 {
