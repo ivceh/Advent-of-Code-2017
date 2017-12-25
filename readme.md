@@ -172,5 +172,13 @@
 	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day20/AoC2017_20B.py"> AoC2017_20B.py </a>
     </td>
   </tr>
+  <tr>
+    <td> 21 </td>
+    <td> <a href="http://adventofcode.com/2017/day/21"> Fractal Art </a> </td>
+    <td> VB.NET </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day21/AoC2017_21_bruteforce.vb"> AoC2017_21_bruteforce.vb </a>
+    </td>
+  </tr>
   
 </table>
