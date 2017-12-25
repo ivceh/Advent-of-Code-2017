@@ -180,5 +180,14 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day21/AoC2017_21_bruteforce.vb"> AoC2017_21_bruteforce.vb </a>
     </td>
   </tr>
+  <tr>
+    <td> 22 </td>
+    <td> <a href="http://adventofcode.com/2017/day/22"> Sporifica Virus </a> </td>
+    <td> C++ </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day22/AoC2017_22A.cpp"> AoC2017_22A.cpp </a>
+	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day22/AoC2017_22B.cpp"> AoC2017_22B.cpp </a>
+    </td>
+  </tr>
   
 </table>
