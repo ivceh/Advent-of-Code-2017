@@ -198,5 +198,13 @@
 	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day23/AoC2017_23B.cpp"> AoC2017_23B.cpp </a>
     </td>
   </tr>
+  <tr>
+    <td> 24 </td>
+    <td> <a href="http://adventofcode.com/2017/day/24"> Electromagnetic Moat </a> </td>
+    <td> VB.NET </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day24/AoC2017_24.vb"> AoC2017_24.vb </a>
+    </td>
+  </tr>
   
 </table>
