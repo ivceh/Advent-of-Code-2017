@@ -24,7 +24,7 @@ do
     if (f==0)
         ++h;
     if (b==c)
-        exit(0);
+        break;
     b += 17;
 }
 while(true);
