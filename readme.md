@@ -189,5 +189,14 @@
 	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day22/AoC2017_22B.cpp"> AoC2017_22B.cpp </a>
     </td>
   </tr>
+  <tr>
+    <td> 23 </td>
+    <td> <a href="http://adventofcode.com/2017/day/23"> Coprocessor Conflagration </a> </td>
+    <td> C++ </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day23/AoC2017_23A.cpp"> AoC2017_23A.cpp </a> &nbsp
+	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day23/AoC2017_23B.cpp"> AoC2017_23B.cpp </a>
+    </td>
+  </tr>
   
 </table>
