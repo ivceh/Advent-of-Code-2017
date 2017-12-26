@@ -207,5 +207,13 @@
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day24/AoC2017_24.vb"> AoC2017_24.vb </a>
     </td>
   </tr>
+  <tr>
+    <td> 25 </td>
+    <td> <a href="http://adventofcode.com/2017/day/25"> The Halting Problem </a> </td>
+    <td> C++ 11 </td>
+    <td>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day25/AoC2017_25.cpp"> AoC2017_25.cpp </a>
+    </td>
+  </tr>
   
 </table>
