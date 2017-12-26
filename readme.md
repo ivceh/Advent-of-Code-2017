@@ -13,7 +13,7 @@
     <td> <a href="http://adventofcode.com/2017/day/1"> Inverse captcha </a> </td>
     <td> C++ </td>
     <td>
-      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day01/AoC2017_1A.cpp"> AoC2017_1A.cpp </a> &nbsp
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day01/AoC2017_1A.cpp"> AoC2017_1A.cpp </a> <br />
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day01/AoC2017_1B.cpp"> AoC2017_1B.cpp </a>
     </td>
   </tr>
@@ -22,7 +22,7 @@
     <td> <a href="http://adventofcode.com/2017/day/2"> Corruption Checksum </a> </td>
     <td> Python 3 </td>
     <td>
-      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day02/AoC2017_2A.py"> AoC2017_2A.py </a> &nbsp
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day02/AoC2017_2A.py"> AoC2017_2A.py </a> <br />
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day02/AoC2017_2B.py"> AoC2017_2B.py </a>
     </td>
   </tr>
@@ -151,7 +151,7 @@
     <td> <a href="http://adventofcode.com/2017/day/18"> Duet </a> </td>
     <td> VB.NET </td>
     <td>
-      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day18/AoC2017_18A.vb"> AoC2017_18A.vb </a> &nbsp
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day18/AoC2017_18A.vb"> AoC2017_18A.vb </a> <br />
       <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day18/AoC2017_18B.vb"> AoC2017_18B.vb </a>
     </td>
   </tr>
@@ -168,7 +168,7 @@
     <td> <a href="http://adventofcode.com/2017/day/20"> Particle Swarm </a> </td>
     <td> Python 3 </td>
     <td>
-      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day20/AoC2017_20A.py"> AoC2017_20A.py </a> &nbsp
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day20/AoC2017_20A.py"> AoC2017_20A.py </a> <br />
 	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day20/AoC2017_20B.py"> AoC2017_20B.py </a>
     </td>
   </tr>
@@ -177,7 +177,8 @@
     <td> <a href="http://adventofcode.com/2017/day/21"> Fractal Art </a> </td>
     <td> VB.NET </td>
     <td>
-      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day21/AoC2017_21_bruteforce.vb"> AoC2017_21_bruteforce.vb </a>
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day21/AoC2017_21_bruteforce.vb"> AoC2017_21_bruteforce.vb </a> <br />
+	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day21/AoC2017_21_optimized.vb"> AoC2017_21_optimized.vb </a>
     </td>
   </tr>
   <tr>
@@ -185,7 +186,7 @@
     <td> <a href="http://adventofcode.com/2017/day/22"> Sporifica Virus </a> </td>
     <td> C++ </td>
     <td>
-      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day22/AoC2017_22A.cpp"> AoC2017_22A.cpp </a> &nbsp
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day22/AoC2017_22A.cpp"> AoC2017_22A.cpp </a> <br />
 	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day22/AoC2017_22B.cpp"> AoC2017_22B.cpp </a>
     </td>
   </tr>
@@ -194,7 +195,7 @@
     <td> <a href="http://adventofcode.com/2017/day/23"> Coprocessor Conflagration </a> </td>
     <td> C++ </td>
     <td>
-      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day23/AoC2017_23A.cpp"> AoC2017_23A.cpp </a> &nbsp
+      <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day23/AoC2017_23A.cpp"> AoC2017_23A.cpp </a> <br />
 	  <a href="https://github.com/ivceh/Advent-of-Code-2017/blob/master/Day23/AoC2017_23B.cpp"> AoC2017_23B.cpp </a>
     </td>
   </tr>
